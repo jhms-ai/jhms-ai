@@ -8,6 +8,7 @@
 ![Coffee](https://img.shields.io/badge/Coffee-ED8B00?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+
 ## 📍 Standorte
 🏢 Hamburg | Berlin | Frankfurt am Main | Nürnberg | München
 
